@@ -1,0 +1,18 @@
+[submodule "m3-compose"]
+	path = m3-compose
+	url = git@github.com:a-f-larionov/m3-compose
+[submodule "m3-users-service"]
+	path = m3-users-service
+	url = git@github.com:a-f-larionov/m3-users-service
+[submodule "m3-common-service"]
+	path = m3-common-service
+	url = git@github.com:a-f-larionov/m3-common-service
+[submodule "m3-stuff-service"]
+	path = m3-stuff-service
+	url = git@github.com:a-f-larionov/m3-stuff-service
+[submodule "m3-map-and-points-service"]
+	path = m3-map-and-points-service
+	url = git@github.com:a-f-larionov/m3-map-and-points-service
+[submodule "m3-payment-service"]
+	path = m3-payment-service
+	url = git@github.com:a-f-larionov/m3-payment-service
