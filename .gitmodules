@@ -19,3 +19,6 @@
 [submodule "m3-lib"]
 	path = m3-lib
 	url = git@github.com:a-f-larionov/m3-lib
+[submodule "m3-node"]
+	path = m3-node
+	url = git@github.com:a-f-larionov/m3-node
