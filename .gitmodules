@@ -7,15 +7,9 @@
 [submodule "m3-common-service"]
 	path = m3-common-service
 	url = git@github.com:a-f-larionov/m3-common-service
-[submodule "m3-stuff-service"]
-	path = m3-stuff-service
-	url = git@github.com:a-f-larionov/m3-stuff-service
-[submodule "m3-map-service"]
-	path = m3-map-service
-	url = git@github.com:a-f-larionov/m3-map-service
-[submodule "m3-payment-service"]
-	path = m3-payment-service
-	url = git@github.com:a-f-larionov/m3-payment-service
+[submodule "m3-gameplay-service"]
+	path = m3-gameplay-service
+	url = git@github.com:a-f-larionov/m3-gameplay-service
 [submodule "m3-lib"]
 	path = m3-lib
 	url = git@github.com:a-f-larionov/m3-lib
