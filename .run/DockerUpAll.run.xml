@@ -8,7 +8,7 @@
       </settings>
     </deployment>
     <method v="2">
-      <option name="RunConfigurationTask" enabled="true" run_configuration_name="buildAll" run_configuration_type="BatchConfigurationType" />
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks="build -x test" externalProjectPath="$PROJECT_DIR$/m3-compose" vmOptions="" scriptParameters="" />
     </method>
   </configuration>
 </component>
