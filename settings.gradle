@@ -1,5 +1,5 @@
 rootProject.name = 'm3'
 include 'm3-lib'
-include 'm3-gameplay-service'
+include 'm3-game-service'
 include 'm3-users-service'
 include 'm3-common-service'
