@@ -13,6 +13,6 @@
 [submodule "m3-common-service"]
 	path = m3-common-service
 	url = git@github.com:a-f-larionov/m3-common-service
-[submodule "m3-gameplay-service"]
-	path = m3-gameplay-service
-	url = git@github.com:a-f-larionov/m3-gameplay-service
+[submodule "m3-game-service"]
+	path = m3-game-service
+	url = git@github.com:a-f-larionov/m3-game-service
