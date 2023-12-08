@@ -8,7 +8,7 @@
       </settings>
     </deployment>
     <method v="2">
-      <option name="Gradle.BeforeRunTask" enabled="false" tasks="publishToMavenLocal build -x test" externalProjectPath="$PROJECT_DIR$" vmOptions="" scriptParameters="" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="buildAll" run_configuration_type="MavenRunConfiguration" />
     </method>
   </configuration>
 </component>
