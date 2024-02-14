@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="RebuildAll" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+  <configuration default="false" name="Run Docker" type="docker-deploy" factoryName="docker-compose.yml" focusToolWindowBeforeRun="true" server-name="Docker">
     <deployment type="docker-compose.yml">
       <settings>
         <option name="envFilePath" value="" />
@@ -8,7 +8,7 @@
       </settings>
     </deployment>
     <method v="2">
-      <option name="RunConfigurationTask" enabled="true" run_configuration_name="m3 [install,-Dmaven.test.skip=true]" run_configuration_type="MavenRunConfiguration" />
+      <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="-Dmaven.test.skip=true install" />
     </method>
   </configuration>
 </component>
