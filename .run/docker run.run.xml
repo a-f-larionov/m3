@@ -9,7 +9,7 @@
     </deployment>
     <method v="2">
       <option name="LaunchBrowser.Before.Run" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" url="http://localhost:8080/service/client-standalone?soc-net-user-id=1" withDebugger="true" />
-      <option name="RunConfigurationTask" enabled="true" run_configuration_name="m3 [clean]" run_configuration_type="MavenRunConfiguration" />
+      <option name="RunConfigurationTask" enabled="false" run_configuration_name="mvn install" run_configuration_type="MavenRunConfiguration" />
     </method>
   </configuration>
 </component>
