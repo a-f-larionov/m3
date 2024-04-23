@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="app-users" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+  <configuration default="false" name="users-service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
     <option name="ACTIVE_PROFILES" value="local" />
     <option name="envFilePaths">
       <option value="$PROJECT_DIR$/m3-compose/.env" />
