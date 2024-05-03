@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="tests in all" type="CompoundRunConfigurationType">
+    <toRun name="All in m3-common-service" type="JUnit" />
+    <toRun name="All in m3-game-service" type="JUnit" />
+    <toRun name="All in m3-lib" type="JUnit" />
+    <toRun name="All in m3-users-service" type="JUnit" />
+    <method v="2" />
+  </configuration>
+</component>
