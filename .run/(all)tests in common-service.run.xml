@@ -7,9 +7,7 @@
     <option name="TEST_OBJECT" value="package" />
     <method v="2">
       <option name="Make" enabled="true" />
-      <option name="RunConfigurationTask" enabled="true" run_configuration_name="tests in m3-lib" run_configuration_type="JUnit" />
       <option name="RunConfigurationTask" enabled="true" run_configuration_name="tests in game-service" run_configuration_type="JUnit" />
-      <option name="RunConfigurationTask" enabled="true" run_configuration_name="tests in users-service" run_configuration_type="JUnit" />
     </method>
   </configuration>
 </component>
